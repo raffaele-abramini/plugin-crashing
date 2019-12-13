@@ -1,0 +1,13 @@
+[
+  {
+    "name": "plugin-react-bundled",
+    "version": "0.0.0",
+    "class": "ReactBundledPlugin",
+    "requires": [
+      {
+        "@twilio/flex-ui": "^1"
+      }
+    ],
+    "src": "http://localhost:3000/plugin-react-bundled.js"
+  }
+]
