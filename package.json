@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@material-ui/core": "^3.9.3",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "craco-config-flex-plugin": "^3.3.4",
     "flex-plugin": "^3.0.0",
     "flex-plugin-scripts": "^3.3.5",
